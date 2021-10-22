@@ -19,9 +19,9 @@ Output2:-
 
 Welcome to Caesar Cipher Decryption.
 
-Enter the message you would like to decrypt: Kl pb qdph lv dwxo plvkud
+Enter the message you would like to decrypt: hi my name is atul  mishra
 
-Enter key to decrypt: 3
+Enter key to decrypt: 1
 
 Decrypting your message...
 
@@ -29,4 +29,4 @@ Stand by, almost finished...
 
 Your decrypted message is:
 
-hi my name is atul mishra
+gh lx mzld hr zstk  lhrgqz
